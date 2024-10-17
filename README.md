@@ -1,6 +1,4 @@
-# c-on-the-rocks
-
-Instructions
+# Instructions
 1. Create a codespace.
 2. If already created then (code -> codespaces)
 3. Add code in main.c in the main() function.
